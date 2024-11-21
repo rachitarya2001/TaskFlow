@@ -1,9 +1,10 @@
+localStorage.clear()
 
 const employees = [
     {
         "id": 1,
         "firstName": "Arjun",
-        "email": "e@e.com",
+        "email": "arjun@e.com",
         "password": "123",
         "taskCounts": {
             "active": 2,
@@ -47,7 +48,7 @@ const employees = [
     {
         "id": 2,
         "firstName": "Sneha",
-        "email": "employee2@example.com",
+        "email": "sneha@e.com",
         "password": "123",
         "taskCounts": {
             "active": 1,
@@ -81,7 +82,7 @@ const employees = [
     {
         "id": 3,
         "firstName": "Ravi",
-        "email": "employee3@example.com",
+        "email": "ravi@e.com",
         "password": "123",
         "taskCounts": {
             "active": 2,
@@ -125,7 +126,7 @@ const employees = [
     {
         "id": 4,
         "firstName": "Priya",
-        "email": "employee4@example.com",
+        "email": "priya4@e.com",
         "password": "123",
         "taskCounts": {
             "active": 2,
@@ -159,7 +160,7 @@ const employees = [
     {
         "id": 5,
         "firstName": "Karan",
-        "email": "employee5@example.com",
+        "email": "karan@example.com",
         "password": "123",
         "taskCounts": {
             "active": 2,
